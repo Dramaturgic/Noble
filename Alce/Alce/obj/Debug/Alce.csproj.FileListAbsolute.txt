@@ -1,0 +1,8 @@
+C:\Users\igor.cpereira2\source\repos\Alce\Alce\bin\Debug\Alce.exe.config
+C:\Users\igor.cpereira2\source\repos\Alce\Alce\bin\Debug\Alce.exe
+C:\Users\igor.cpereira2\source\repos\Alce\Alce\bin\Debug\Alce.pdb
+C:\Users\igor.cpereira2\source\repos\Alce\Alce\obj\Debug\Alce.csproj.AssemblyReference.cache
+C:\Users\igor.cpereira2\source\repos\Alce\Alce\obj\Debug\Alce.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor.cpereira2\source\repos\Alce\Alce\obj\Debug\Alce.csproj.CoreCompileInputs.cache
+C:\Users\igor.cpereira2\source\repos\Alce\Alce\obj\Debug\Alce.exe
+C:\Users\igor.cpereira2\source\repos\Alce\Alce\obj\Debug\Alce.pdb

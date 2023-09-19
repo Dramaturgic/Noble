@@ -1,0 +1,8 @@
+C:\Users\igor.cpereira2\source\repos\Bisão\Bisão\bin\Debug\Bisão.exe.config
+C:\Users\igor.cpereira2\source\repos\Bisão\Bisão\bin\Debug\Bisão.exe
+C:\Users\igor.cpereira2\source\repos\Bisão\Bisão\bin\Debug\Bisão.pdb
+C:\Users\igor.cpereira2\source\repos\Bisão\Bisão\obj\Debug\Bisão.csproj.AssemblyReference.cache
+C:\Users\igor.cpereira2\source\repos\Bisão\Bisão\obj\Debug\Bisão.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor.cpereira2\source\repos\Bisão\Bisão\obj\Debug\Bisão.csproj.CoreCompileInputs.cache
+C:\Users\igor.cpereira2\source\repos\Bisão\Bisão\obj\Debug\Bisão.exe
+C:\Users\igor.cpereira2\source\repos\Bisão\Bisão\obj\Debug\Bisão.pdb
