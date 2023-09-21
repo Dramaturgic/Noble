@@ -1,0 +1,8 @@
+C:\Users\igor.cpereira2\source\repos\Caabra\Caabra\obj\Debug\Caabra.csproj.AssemblyReference.cache
+C:\Users\igor.cpereira2\source\repos\Caabra\Caabra\obj\Debug\Caabra.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor.cpereira2\source\repos\Caabra\Caabra\obj\Debug\Caabra.csproj.CoreCompileInputs.cache
+C:\Users\igor.cpereira2\source\repos\Caabra\Caabra\bin\Debug\Caabra.exe.config
+C:\Users\igor.cpereira2\source\repos\Caabra\Caabra\bin\Debug\Caabra.exe
+C:\Users\igor.cpereira2\source\repos\Caabra\Caabra\bin\Debug\Caabra.pdb
+C:\Users\igor.cpereira2\source\repos\Caabra\Caabra\obj\Debug\Caabra.exe
+C:\Users\igor.cpereira2\source\repos\Caabra\Caabra\obj\Debug\Caabra.pdb
